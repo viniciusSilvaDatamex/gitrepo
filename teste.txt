@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 novo título
 
 autor: vini
 data: 26/04 10:50
+=======
+teste 22222
+>>>>>>> task1
