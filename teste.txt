@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-teste 22222
-=======
-<<<<<<< HEAD
-novo título
-
-autor: vini
-data: 26/04 10:50
-=======
-teste 22222
->>>>>>> task1
->>>>>>> develop
+titulo 1
